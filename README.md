@@ -1,3 +1,14 @@
+---
+title: WellSense
+emoji: 🌿
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.66.1
+app_file: app/main.py
+pinned: false
+---
+
 # WellSense
 Explainable student wellbeing-support prototype extending Nath et al. (2025), *Smart web interface for student mental health prediction using machine learning with blockchain technology* (doi:10.1016/j.neuri.2025.100236).
 **Not a medical or clinical diagnostic system.** Target = a student's *self-reported* depression answer.
