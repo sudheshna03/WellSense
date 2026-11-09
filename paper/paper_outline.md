@@ -1,0 +1,1 @@
+Follows the 22-section structure in the master prompt. Fill results only from `results/tables/*.csv`, `results/experiment_summary.json` and `results/figures/*`. State clearly: base-paper reported results vs WellSense results; implemented vs future (Keras/SHAP port, larger data, user study).

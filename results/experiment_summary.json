@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "cv": "5x5 repeated stratified",
+  "paired_vs_best_classical": {
+    "A": {
+      "best_classical": "Gradient Boosting",
+      "mean_diff_bal_acc(MLP-best)": 0.021,
+      "folds_mlp_better": 11,
+      "folds": 25
+    },
+    "B": {
+      "best_classical": "Random Forest",
+      "mean_diff_bal_acc(MLP-best)": -0.004,
+      "folds_mlp_better": 9,
+      "folds": 25
+    },
+    "C": {
+      "best_classical": "Random Forest",
+      "mean_diff_bal_acc(MLP-best)": 0.0,
+      "folds_mlp_better": 13,
+      "folds": 25
+    }
+  }
+}

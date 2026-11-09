@@ -1,0 +1,9 @@
+ablation,mean_A,mean_B,mean_diff(A-B),sd_diff,folds_A_better,folds
+"Tuned MLP vs best classical (Gradient Boosting), tier A",0.739,0.719,0.021,0.062,11,25
+"Regularisation/tuning: tuned vs initial MLP, tier A",0.739,0.723,0.017,0.052,10,25
+"Tuned MLP vs best classical (Random Forest), tier B",0.735,0.739,-0.004,0.061,9,25
+"Regularisation/tuning: tuned vs initial MLP, tier B",0.735,0.708,0.027,0.094,12,25
+"Tuned MLP vs best classical (Random Forest), tier C",0.745,0.745,0.0,0.089,13,25
+"Regularisation/tuning: tuned vs initial MLP, tier C",0.745,0.747,-0.002,0.096,9,25
+Feature set: tier B vs tier A (tuned MLP),0.735,0.739,-0.004,0.096,9,25
+Feature set: tier C vs tier B (tuned MLP; C includes likely-leaky treatment),0.745,0.735,0.01,0.073,13,25

@@ -1,0 +1,2 @@
+# Research gap
+Base paper: prediction-focused, 12 classical models, limited explanation, inconsistent reporting, public-chain storage of sensitive data. WellSense adds a neural-network comparison under paired nested CV, explanations, rule-based suggestions and feedback-adaptive ranking. Outcome: the neural network is on par with classical models; the contribution is the rigorous comparison and the integrated, privacy-conscious system.

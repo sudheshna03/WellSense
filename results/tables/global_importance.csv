@@ -1,0 +1,9 @@
+feature,importance,sd_across_folds
+Marital status,0.1877,0.0928
+Self-reported anxiety,0.0369,0.0704
+CGPA band,0.0172,0.0477
+Self-reported panic attacks,0.0077,0.0343
+Year of study,0.0035,0.0416
+Age,0.0013,0.0375
+Gender,-0.0007,0.0256
+Course group,-0.0059,0.0224
